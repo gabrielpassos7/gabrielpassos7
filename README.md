@@ -12,10 +12,6 @@
 <p align="left">
 <a href="https://instagram.com/_gabrielpassos7" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://twitter.com/_gabrielpassos7" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white">
 </a> 
 
 <a href="https://www.linkedin.com/in/gabriel-passolongo-2673b9235/" target="_blank">
